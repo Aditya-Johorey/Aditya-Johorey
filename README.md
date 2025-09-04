@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there, I am Aditya Johorey👋
+
+## Connect with me:
+[![Email](https://img.shields.io/badge/Email-adityajohorey%40gmail.com-red?style=flat-square)](mailto:adityajohorey@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adityajohorey-blue?style=flat-square)](https://www.linkedin.com/in/aditya-johorey/)
+
+ - 🔭 I’m currently working on ...
+ ## 📕 My Latest Projects
+ * 
 
 <!--
 **Aditya-Johorey/Aditya-Johorey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
