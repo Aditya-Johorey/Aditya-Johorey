@@ -29,6 +29,25 @@ I hold an MSc in Robotics from University of York, where I specialised in Roboti
 * Open Source projects on **Robotics and AI**.
 * Projects on **Machine Vision** and **Deep Learning**.
 
+## Languages and Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-FF7F0E?style=flat&logo=matlab&logoColor=white)
+![VHDL](https://img.shields.io/badge/-VHDL-00599C?style=flat&logo=vhdl&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=coffeescript&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-DD550C?style=flat&logoColor=white)
+
 
 
 <!--
