@@ -7,6 +7,7 @@
  <!-- 🔭 I’m currently working on ...-->
  ## 📕 My Latest Projects
  ### 🤖 Robotics
+ * [Four Joint Robotic Manipulator](https://github.com/Aditya-Johorey/4-joint-robot-manipulator-design-and-simulation/tree/main) - Designed and Simulated a 4-DOF PRRR robotic manipulator with kinematics, dynamics, and PD control using MATLAB/Simulink.
  * [Differencial Drive Robot](https://github.com/Aditya-Johorey/DifferencialDriveRobot)  - Autonomous navigation using Raspberry Pi 4, Arduino Nano 33 BLE and sensor fusion.
  * [Processing on Xilinx-ZYNQ SOC](https://github.com/Aditya-Johorey/Processing-on-Xilinx-ZYNQ-SoC) - Real Time image processing on FPGA-ARM SoC.
 ### 🧠 Machine Learning
