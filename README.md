@@ -1,7 +1,7 @@
 # Hi there, I am Aditya Johorey👋
 
 ## Connect with me:
-[![Email](https://img.shields.io/badge/Email-adityajohorey%40gmail.com-red?style=flat-square)](mailto:adityajohorey@gmail.com)
+[![Email](https://img.shields.io/badge/Email-adityajohorey@gmail.com-red?style=flat-square)](mailto:adityajohorey@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adityajohorey-blue?style=flat-square)](https://www.linkedin.com/in/aditya-johorey/)
 
  <!-- 🔭 I’m currently working on ...-->
