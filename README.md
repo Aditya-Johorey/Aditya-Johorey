@@ -7,7 +7,7 @@
  <!-- 🔭 I’m currently working on ...-->
  ## 📕 My Latest Projects
  ### 🤖 Robotics
- * [Drone and Machine Vision for package delivery](https://github.com/Aditya-Johorey/Drone-to-Robot-Package-Delivery-with-Real-Time-Machine-Vision/tree/main) - Drone System to detect and locate a package, to communicate it to a ground robot
+ * [Autonomous Drone Package Locator](https://github.com/Aditya-Johorey/Drone-to-Robot-Package-Delivery-with-Real-Time-Machine-Vision/tree/main) - Drone System to detect and locate a package, to communicate it to a ground robot
  * [Four Joint Robotic Manipulator](https://github.com/Aditya-Johorey/4-joint-robot-manipulator-design-and-simulation/tree/main) - Designed and Simulated a 4-DOF PRRR robotic manipulator with kinematics, dynamics, and PD control using MATLAB/Simulink.
  * [Differencial Drive Robot](https://github.com/Aditya-Johorey/DifferencialDriveRobot)  - Autonomous navigation using Raspberry Pi 4, Arduino Nano 33 BLE and sensor fusion.
  * [Processing on Xilinx-ZYNQ SOC](https://github.com/Aditya-Johorey/Processing-on-Xilinx-ZYNQ-SoC) - Real Time image processing on FPGA-ARM SoC.
