@@ -12,6 +12,7 @@
  * [Differencial Drive Robot](https://github.com/Aditya-Johorey/DifferencialDriveRobot)  - Autonomous navigation using Raspberry Pi 4, Arduino Nano 33 BLE and sensor fusion.
  * [Processing on Xilinx-ZYNQ SOC](https://github.com/Aditya-Johorey/Processing-on-Xilinx-ZYNQ-SoC) - Real Time image processing on FPGA-ARM SoC.
 ### 🧠 Machine Learning
+* [Wildfire / hotspot detection on thermal drone images](https://github.com/Aditya-Johorey/Wildfire-Hotspot-Detection-from-Thermal-Drone-Images) - Fire location detection using thermal image samples from drone images
 * [Image Captioning using GANs](https://github.com/Aditya-Johorey/ImageCaptioning) - Algorithm for generating text captions using GANs in Tensorflow.
 * [Giloma Grading and Mutation](https://github.com/Aditya-Johorey/Glioma-Grading-Clinical-and-Mutation-Features-Dataset) - Predictive ML system for brain tumor grading and mutation detection using Scikit-learn.
 
